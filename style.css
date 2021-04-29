@@ -4,6 +4,10 @@ main{
     height: 100vh;
     justify-content: center;
     align-items: center;
+    background-image: url(naom_57f25063f2b00.jpg);
+    background-repeat: no-repeat, repeat;
+    background-attachment: initial, fixed;
+    background-blend-mode: overlay;
   
   }
   
@@ -77,3 +81,5 @@ main{
     box-sizing: border-box;
     user-select: none;
   }
+
+  
